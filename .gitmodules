@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aprof"]
+	path = aprof
+	url = https://github.com/marcodvisser/aprof
+	shallow = true
+	registered = true
+[submodule "ccrtm"]
+	path = ccrtm
+	url = https://github.com/marcodvisser/ccrtm
+	shallow = true
+	registered = true

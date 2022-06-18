@@ -1,0 +1,10 @@
+[
+  {
+    "package": "aprof",
+    "oncran": true
+  },
+  {
+    "package": "ccrtm",
+    "oncran": true
+  }
+]
